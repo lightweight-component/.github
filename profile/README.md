@@ -17,11 +17,11 @@ We offer lightweight components, free, open-source, simple, and easy to use, not
 |aj-spring|围绕 Spring 的扩展库，集成日常组件|https://aj-spring.ajaxjs.com/|中间件|
 |aj-security|实用的 Java Web 安全库|[https://aj-security.ajaxjs.com/](https://security.ajaxjs.com)|基础库|
 |aj-mcp|支持 Java8 的 MCP 实现|[https://github.com/lightweight-component/aj-mcp](https://github.com/lightweight-component/aj-mcp)|组件|
-|aj-json|小型 JSON 解释器|https://github.com/lightweight-component/aj-json|组件/学习|
-|aj-ftp|小型 Java FTP 客户端|https://github.com/lightweight-component/aj-ftp|组件/学习|
-|aj-s3client|小型S3 存储 Java 客户端|https://github.com/lightweight-component/aj-s3client|组件/学习|
+|aj-json|手写 JSON 解释器|https://github.com/lightweight-component/aj-json|组件/学习|
+|aj-ftp|手写 Java FTP 客户端|https://github.com/lightweight-component/aj-ftp|组件/学习|
+|aj-s3client|手写 S3 存储 Java 客户端|https://github.com/lightweight-component/aj-s3client|组件/学习|
 |aj-qrcode|生成二维码|https://github.com/lightweight-component/aj-qrcode|组件/学习|
-|lightweight-springboot|基于 SpringMVC 打造仿 SpringBoot|https://github.com/lightweight-component/aj-lightweight-springboot|中间件/学习|
+|lightweight-springboot|基于 SpringMVC 手写 SpringBoot|https://github.com/lightweight-component/aj-lightweight-springboot|中间件/学习|
 |aj-mvc|手写 IoC 与 SpringMVC|https://github.com/lightweight-component/aj-mvc|中间件/学习|
 |aj-document|数据库文档展示工具、API 文档提取工具|https://github.com/lightweight-component/aj-document|组件|
 |LittleHelper|TypeScript, Little Helper for Cloudflare workers |[https://github.com/lightweight-component/aj-qrcode](https://github.com/lightweight-component/little-helper)|中间件|

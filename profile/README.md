@@ -21,6 +21,8 @@ We offer lightweight components, free, open-source, simple, and easy to use, not
 |aj-ftp|小型的 Java FTP 客户端|https://github.com/lightweight-component/aj-ftp|组件/学习|
 |aj-s3client|S3 存储 Java 客户端|https://github.com/lightweight-component/aj-s3client|组件/学习|
 |aj-qrcode|生成二维码|https://github.com/lightweight-component/aj-qrcode|组件/学习|
+|lightweight-springboot|基于 SpringMVC 打造仿 SpringBoot|https://github.com/lightweight-component/aj-lightweight-springboot|中间件/学习|
+|aj-mvc|原生 Java 实现 IoC 与 SpringMVC|https://github.com/lightweight-component/aj-mvc|中间件/学习|
 |aj-document|数据库文档展示工具、API 文档提取工具|https://github.com/lightweight-component/aj-document|组件|
 |LittleHelper|TypeScript, Little Helper for Cloudflare workers |[https://github.com/lightweight-component/aj-qrcode](https://github.com/lightweight-component/little-helper)|中间件|
 |aj-iam|用户管理、单点登录、权限管理|https://github.com/lightweight-component/aj-iam|应用程序|

@@ -10,13 +10,19 @@ We offer lightweight components, free, open-source, simple, and easy to use, not
 
 🍿 AJAXJS 轻量级组件开源矩阵：
 
-|名称|简介|官网|目的|
+|名称|简介|官网/源码|目的|
 |----|--------|-------|------|
 |aj-utils|小型、干净、简单的 Java 工具库|https://aj-util.ajaxjs.com/|基础库|
 |SqlMan|轻量级数据库访问组件|[https://sqlman.ajaxjs.com/](https://sqlman.ajaxjs.com)|中间件|
 |aj-spring|围绕 Spring 的扩展库，集成日常组件|https://aj-spring.ajaxjs.com/|中间件|
 |aj-security|实用的 Java Web 安全库|[https://aj-security.ajaxjs.com/](https://security.ajaxjs.com)|基础库|
-|aj-json|小型 JSON 解释器|https://github.com/lightweight-component/aj-json|基础库/学习|
+|aj-mcp|支持 Java8 的 MCP 实现|[https://github.com/lightweight-component/aj-mcp](https://github.com/lightweight-component/aj-mcp)|组件|
+|aj-json|小型 JSON 解释器|https://github.com/lightweight-component/aj-json|组件/学习|
+|aj-ftp|小型的 Java FTP 客户端|https://github.com/lightweight-component/aj-ftp|组件/学习|
+|aj-s3client|S3 存储 Java 客户端|https://github.com/lightweight-component/aj-s3client|组件/学习|
+|aj-qrcode|生成二维码|https://github.com/lightweight-component/aj-qrcode|组件/学习|
+|aj-iam|用户管理、单点登录、权限管理|https://github.com/lightweight-component/aj-iam|应用程序|
+|aj-workflow|轻量级工作流引擎|https://github.com/lightweight-component/aj-workflow|应用程序|
 
 <!--
 

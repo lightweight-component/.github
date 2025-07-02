@@ -8,6 +8,15 @@ Java can turn small projects into medium-sized ones, and medium-sized projects i
 
 We offer lightweight components, free, open-source, simple, and easy to use, not only for backend but also for the frontend. Tech stack: Java/Spring/TypeScript/NodeJS/Vue/React/Serverless.
 
+🍿 AJAXJS 轻量级组件开源矩阵：
+
+|名称|简介|官网|目的|
+|----|--------|-------|------|
+|aj-utils|小型、干净、简单的 Java 工具库|https://aj-util.ajaxjs.com/|基础库|
+|SqlMan|轻量级数据库访问组件|[https://sqlman.ajaxjs.com/](https://sqlman.ajaxjs.com)|中间件|
+|aj-spring|围绕 Spring 的扩展库，集成日常组件|https://aj-spring.ajaxjs.com/|中间件|
+|aj-security|实用的 Java Web 安全库|[https://aj-security.ajaxjs.com/](https://security.ajaxjs.com)|基础库|
+|aj-json|小型 JSON 解释器|https://github.com/lightweight-component/aj-json|基础库/学习|
 
 <!--
 

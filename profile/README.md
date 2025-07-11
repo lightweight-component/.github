@@ -16,7 +16,7 @@ We offer lightweight components, free, open-source, simple, and easy to use, not
 |SqlMan|轻量级数据库访问组件|[https://sqlman.ajaxjs.com/](https://sqlman.ajaxjs.com)|中间件|
 |aj-spring|围绕 Spring 的扩展库，集成日常组件|https://aj-spring.ajaxjs.com/|中间件|
 |aj-security|实用的 Java Web 安全库|[https://aj-security.ajaxjs.com/](https://security.ajaxjs.com)|基础库|
-|aj-mcp|支持 Java8 的 MCP 实现|[https://github.com/lightweight-component/aj-mcp](aj-mcp)|组件|
+|aj-mcp|支持 Java8 的 MCP 实现|[https://github.com/lightweight-component/aj-mcp](/lightweight-component/aj-mcp)|组件|
 |aj-json|手写 JSON 解释器|https://github.com/lightweight-component/aj-json|组件/学习|
 |aj-ftp|手写 Java FTP 客户端|https://github.com/lightweight-component/aj-ftp|组件/学习|
 |aj-s3client|手写 S3 存储 Java 客户端|https://github.com/lightweight-component/aj-s3client|组件/学习|

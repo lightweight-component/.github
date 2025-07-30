@@ -22,7 +22,7 @@ Open-source Lightweight Component Matrix:
 |aj-iam|用户管理、单点登录、权限管理|https://iam.ajaxjs.com|中间件|
 |aj-smart-code-platform|数据服务、低代码平台|https://dataservice.ajaxjs.com|中间件|
 |aj-dev-tools|开发者工具、监控模块|https://github.com/lightweight-component/aj-dev-tools|中间件|
-|aj-workflow|轻量级工作流引擎|[https://github.com/lightweight-component/aj-workflow](https://workflow.ajaxjs.com)|中间件|
+|aj-workflow|轻量级工作流引擎|https://workflow.ajaxjs.com|中间件|
 |aj-json|手写 JSON 解释器|https://github.com/lightweight-component/aj-json|组件/学习|
 |aj-ftp|手写 Java FTP 客户端|https://github.com/lightweight-component/aj-ftp|组件/学习|
 |aj-s3client|手写 S3 存储 Java 客户端|https://github.com/lightweight-component/aj-s3client|组件/学习|
